@@ -1,0 +1,17 @@
+.container {
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 250px;
+    height: 400px;
+    text-align: center;
+    margin: 26px;
+    background-color: white;
+  }
+  
+  
+  .cardImage {
+    width: 100%;
+    height: 250px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
